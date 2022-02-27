@@ -1,0 +1,12 @@
+Motor_Simple    KEYWORD1
+
+speed_min       KEYWORD2
+speed_max       KEYWORD2
+pwmsetup        KEYWORD2
+motor_down      KEYWORD2
+motor_left      KEYWORD2
+motor_right     KEYWORD2
+motor_up        KEYWORD2
+motor_stop      KEYWORD2
+pwmbegin        KEYWORD2
+motorbegin      KEYWORD2
