@@ -49,6 +49,23 @@ void loop() {
   }
 
   motor_stop();
+  delay(500);
+
+  // motor belok kanan
+
+  motor_right(GO);
+  motor_left(BACK);
+
   delay(1000);
+
+  // motor belok kiri
+
+  motor_left(GO);
+  motor_right(BACK);
+
+  delay(1000);
+
+  motor_stop();
+  delay(5000);
   
 }
